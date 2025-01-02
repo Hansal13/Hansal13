@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Fin-Tech Enthusiast constantly exploring and
 
 ## 🚀 About Me
 
-- 🛠️ I’m working on data analysis, business analysia and learning financial concepts.
+- 🛠️ I’m working on data analysis, business analysis and learning financial concepts.
 - 💬 Ask me about anything related to Python, JavaScript, or open-source contributions.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hansal13)
 

@@ -1,6 +1,6 @@
 # Hi there, I'm Hansal! 👋
 
-# ![Logo](https://github.com/Hansal13/your-repo-name/blob/main/logo.png)
+# ![Logo](https://github.com/Hansal13/Hansal13/blob/main/Hansal.png)
 
 Welcome to my GitHub profile! I'm a Fin-Tech Enthusiast constantly exploring and learning new technologies and financial concepts. Here's a bit about me and my work:
 
@@ -8,8 +8,7 @@ Welcome to my GitHub profile! I'm a Fin-Tech Enthusiast constantly exploring and
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning advanced algorithms and data structures.
-- 🛠️ I’m working on several exciting projects, ranging from web development to machine learning.
+- 🛠️ I’m working on data analysis, business analysia and learning financial concepts.
 - 💬 Ask me about anything related to Python, JavaScript, or open-source contributions.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hansal13)
 
@@ -20,7 +19,7 @@ Welcome to my GitHub profile! I'm a Fin-Tech Enthusiast constantly exploring and
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 
-### Web Development
+### Development
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
